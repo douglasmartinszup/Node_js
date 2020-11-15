@@ -12,6 +12,10 @@ em seu temrinal rode :
 npm install express (micro framework para trabalhar com rotas e views)
 
 
+>>Instalar o nodemon apra atualizações 
+
+npm install -D nodemon
+
 ## Para criar nossa primeira api 
 
 

@@ -4,7 +4,7 @@ const express = require("express");
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send("by Doug Caval");
+  res.send("by Doug Caval™  ");
 });
 //pedimos para ela "ouvir " a porta 3001
 app.listen(3001);

@@ -16,9 +16,13 @@ npm install express (micro framework para trabalhar com rotas e views)
 
 npm install -D nodemon
 
-## Para criar nossa primeira api 
+>>Instalar o Robot 3T
+
+https://robomongo.org/ 
 
 
 
-# by Doug Caval
+
+
+# by Doug Caval™
 
